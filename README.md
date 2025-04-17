@@ -1,1 +1,2 @@
 # Human-Activity-Recognition-Using-Visual-Inputs
+This repository showcases a Human Activity Recognition (HAR) project leveraging advanced deep learning techniques. It uses Temporal Convolutional Networks (TCN), Long-term Recurrent Convolutional Networks (LRCN), and Convolutional LSTM (ConvLSTM) models to accurately analyze and classify human activities from visual inputs. The project emphasizes effective temporal and spatial feature extraction to achieve robust performance.
